@@ -1,6 +1,7 @@
 # portfolio
 
-
+![Introduce](https://user-images.githubusercontent.com/75192176/236625229-31158444-2a6b-4e3d-b89e-04944851b499.png)
+<img src="https://user-images.githubusercontent.com/75192176/236625229-31158444-2a6b-4e3d-b89e-04944851b499.png"  width="350" height="190">
 
 ## 최종학력
 2015.02 ~ 인하대학교 기계공학, 글로벌앙트러프러너십 학사 재학 중
