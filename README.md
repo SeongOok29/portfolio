@@ -2,6 +2,10 @@
 
 ![Introduce](https://user-images.githubusercontent.com/75192176/236625229-31158444-2a6b-4e3d-b89e-04944851b499.png)
 
+![test](https://github.com/SeongOok29/portfolio/assets/75192176/3a9b87db-64ad-493c-82a0-03ff5df2bd23)
+
+![blueNode](https://github.com/SeongOok29/portfolio/assets/75192176/44609d88-19f7-49d2-b18b-e1cf0b7cc5b6)
+
 ## 최종학력
 2015.02 ~ 인하대학교 기계공학, 글로벌앙트러프러너십 학사 재학 중
 
