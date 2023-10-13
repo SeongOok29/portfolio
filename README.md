@@ -66,8 +66,9 @@
 
 ----------
 
+## About BlueNode, Incheon's largest blockchain community
 ![test](https://github.com/SeongOok29/portfolio/assets/75192176/3a9b87db-64ad-493c-82a0-03ff5df2bd23)
 
-![blueNode](https://github.com/SeongOok29/portfolio/assets/75192176/44609d88-19f7-49d2-b18b-e1cf0b7cc5b6)
+### BlueNode Twitter ▼
 <img src="[https://github.com/SeongOok29/portfolio/assets/75192176/44609d88-19f7-49d2-b18b-e1cf0b7cc5b6](https://github.com/SeongOok29/portfolio/assets/75192176/1d2a964c-1425-467c-b1d5-4a21eac76610)https://github.com/SeongOok29/portfolio/assets/75192176/1d2a964c-1425-467c-b1d5-4a21eac76610"  width="450" height="450">
 
