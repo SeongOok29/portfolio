@@ -11,6 +11,8 @@
 - 2019.04 ~ 2020.07 교육플랫폼 어펜 대표 (플랫폼 앱서비스 개발)
 - 2020.04 ~ 2020.11 주식회사 도로시 사내이사 (인공지능 SW개발, 공공기관납품)
 - 2020.09 ~ 2021.03 사이드프로젝트그룹 펀디 운영진
+- 2022.09 ~         주식회사 알바트로스에듀 Project Manager (영재멘토.com)
+- 2023.07 ~         인천 블록체인학회 블루노드 학회장
 
 ## 수상 실적
 - 2016.09.01	ICT 섬유제품 아이디어 경진대회	혁신제품상	한국섬유수출입조합 이사장	한국섬유수출입조합
@@ -41,6 +43,8 @@
 - 2019.04 ~ 2020.07 Representative of Appen, an educational platform(Platform App Service Development)
 - 2020.04 ~ 2020.11 Dorothy, in-house director (Artificial Intelligence SW development, delivery to public institutions)
 - 2020.09 - 2021.03 SIDE PROJECT GROUP FUNDY MANAGEMENT
+- 2022.09 ~         GiftedMentor.com Project Manager
+- 2023.07 ~         President of BlueNode (Incheon Blockchain Academic Community)
 
 ## Award-winning performance
 - 2016.09.01 ICT Textile Product Idea Competition Innovation Product Award Korea Textile Import and Export Association Chairman Korea Textile Import and Export Association
@@ -58,3 +62,8 @@
 - 2020.10 Three bids for public service projects worth 170 million won
 - 2020.07 Data Voucher Support Project 0.7 Billion
 - A number of government support projects are underway
+
+
+----------
+
+
